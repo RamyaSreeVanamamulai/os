@@ -1,16 +1,11 @@
-# os
-related to operating systems
-
-
-
-In this assignment you will write several small C programs that will be used to learn some addiƟonal C
+In this assignment you will write several small C programs that will be used to learn some additional C
 programming techniques. Follow the steps given below carefully, recording the results as you go
 through them. Each program must print your name when it first starts.
 Passing parameters to C programs from the command line:
- This example shows how to access the command line arguments, as well as using condiƟonal
-compilaƟon to include a main program or not, depending on the symbol STAND_ALONE being defined or
+ This example shows how to access the command line arguments, as well as using conditional
+compilation to include a main program or not, depending on the symbol STAND_ALONE being defined or
 not. This will be a useful technique in the following parts of this assignment. Search the web for
-“Command line arguments in C”, “CondiƟonal compilaƟon in C” or “C preprocessor” for more info.
+“Command line arguments in C”, “CondiƟonal compilation in C” or “C preprocessor” for more info.
 -----------------------------------------------------------------------------
 /* This program is saved as showargs.c, compiled as showargs */
 #include <stdio.h>
@@ -146,8 +141,4 @@ The script captured from part 1
 The script captured from part 2
 The script captured from part 3
 The script captured from part 4
-See the instrucƟons on the next page for submission. Do not submit this assignment to Blackboard!!!
-
-
-
-
+See the instructions.
